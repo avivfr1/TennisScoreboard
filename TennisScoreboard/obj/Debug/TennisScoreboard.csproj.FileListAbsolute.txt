@@ -1,0 +1,15 @@
+C:\Users\אביב\source\repos\TennisScoreboard\TennisScoreboard\bin\Debug\TennisScoreboard.exe.config
+C:\Users\אביב\source\repos\TennisScoreboard\TennisScoreboard\bin\Debug\TennisScoreboard.exe
+C:\Users\אביב\source\repos\TennisScoreboard\TennisScoreboard\bin\Debug\TennisScoreboard.pdb
+C:\Users\אביב\source\repos\TennisScoreboard\TennisScoreboard\obj\Debug\TennisScoreboard.csprojAssemblyReference.cache
+C:\Users\אביב\source\repos\TennisScoreboard\TennisScoreboard\obj\Debug\MainWindow.g.cs
+C:\Users\אביב\source\repos\TennisScoreboard\TennisScoreboard\obj\Debug\App.g.cs
+C:\Users\אביב\source\repos\TennisScoreboard\TennisScoreboard\obj\Debug\TennisScoreboard_MarkupCompile.cache
+C:\Users\אביב\source\repos\TennisScoreboard\TennisScoreboard\obj\Debug\TennisScoreboard_MarkupCompile.lref
+C:\Users\אביב\source\repos\TennisScoreboard\TennisScoreboard\obj\Debug\MainWindow.baml
+C:\Users\אביב\source\repos\TennisScoreboard\TennisScoreboard\obj\Debug\TennisScoreboard.g.resources
+C:\Users\אביב\source\repos\TennisScoreboard\TennisScoreboard\obj\Debug\TennisScoreboard.Properties.Resources.resources
+C:\Users\אביב\source\repos\TennisScoreboard\TennisScoreboard\obj\Debug\TennisScoreboard.csproj.GenerateResource.cache
+C:\Users\אביב\source\repos\TennisScoreboard\TennisScoreboard\obj\Debug\TennisScoreboard.csproj.CoreCompileInputs.cache
+C:\Users\אביב\source\repos\TennisScoreboard\TennisScoreboard\obj\Debug\TennisScoreboard.exe
+C:\Users\אביב\source\repos\TennisScoreboard\TennisScoreboard\obj\Debug\TennisScoreboard.pdb
